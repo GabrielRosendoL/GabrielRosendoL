@@ -28,6 +28,11 @@
       <img src="./metrics.plugin.isocalendar.svg" alt="Isometric GitHub calendar" width="420" />
 </div>
 
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+  <img src="./metrics.plugin.achievements.svg" alt="GitHub Achievements" width="420" />
+</div>
+
+
 
 <div style="display: inline_block"><br>
   <img alt="Unity" height="30" width="40" src="https://cdn.simpleicons.org/unity/abd200" />
