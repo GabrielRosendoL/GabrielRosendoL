@@ -21,13 +21,11 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnZlbWFrbjk4bWF5OW0wdXo4eDc3b25lbzlqYzg1N2VhMXJ6NTIyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ljtfkyTD3PIUZaKWRi/giphy.gif" width="250" alt="GIF animado" />
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric GitHub calendar" width="420" />
-</div>
-
 
 <div style="display:flex">
       <img src= "https://github-stats-gabriel.vercel.app/api?username=GabrielRosendoL&count_private=true&show_icons=false&hide_rank=true&include_all_commits=true&theme=merko">
+             <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <img src="./metrics.plugin.isocalendar.svg" alt="Isometric GitHub calendar" width="420" />
 </div>
 
 
