@@ -1,5 +1,16 @@
-## Oi! Eu sou o Gabriel!
-
+## Hi! I'm Gabriel! 🐵👋🏼👋👾🎃
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Crossed-Out%20Eyes.png" alt="Face with Crossed-Out Eyes" width="25" height="25" />
+📧
+📱
+💾
+🏁
+🫨
+🕹
+💻
+🛸
+🎮
+🐼
+🐭
 <div style="display: flex">  
       <img src="https://streak-stats.demolab.com/?user=GabrielRosendoL&theme=merko" alt="GitHub Streak" />
   <span>
