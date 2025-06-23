@@ -1,7 +1,10 @@
 ## Oi! Eu sou o Gabriel
 
-[![Anurag's GitHub stats](https://github-stats-gabriel.vercel.app/api?username=GabrielRosendoL&count_private=true&show_icons=true&theme=radical&bg_color=00000000
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Commits](https://github-stats-gabriel.vercel.app/api?username=GabrielRosendoL&count_private=true&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielRosendoL&theme=radical)](https://git.io/streak-stats)
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
