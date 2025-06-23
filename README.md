@@ -32,6 +32,10 @@
   <img src="./metrics.plugin.achievements.svg" alt="GitHub Achievements" width="420" />
 </div>
 
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+  <img src="./metrics.plugin.habits.svg" alt="Coding Habits" width="420" />
+</div>
+
 
 
 <div style="display: inline_block"><br>
