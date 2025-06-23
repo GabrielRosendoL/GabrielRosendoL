@@ -75,6 +75,3 @@
       <h2> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Telephone Receiver.png" width="35" height="35" alt="Telephone Receiver" />  | Contact</h2>
 </div>
 <h3><img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/E-Mail.png" width="20" height="20" alt="E-Mail" /> | Email: gab.rosendo.code@gmail.com</h3>
-<br>
-
-
