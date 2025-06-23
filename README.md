@@ -3,7 +3,7 @@
 <div style="display: flex">  
       <img src="https://streak-stats.demolab.com/?user=GabrielRosendoL&theme=merko" alt="GitHub Streak" />
   <span>
-    ____________
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   </span>
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnZlbWFrbjk4bWF5OW0wdXo4eDc3b25lbzlqYzg1N2VhMXJ6NTIyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ljtfkyTD3PIUZaKWRi/giphy.gif" width="250" alt="GIF animado" />
 </div>
