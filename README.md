@@ -10,12 +10,12 @@
   <img alt="React" height="30" width="40" src="https://cdn.simpleicons.org/react/abd200" />
   <img alt="TypeScript" height="30" width="40" src="https://cdn.simpleicons.org/typescript/abd200" />
   <img alt="HTML" height="30" width="40" src="https://cdn.simpleicons.org/html5/abd200" />
-  <img alt="CSS" height="30" width="40" src="https://cdn.simpleicons.org/css3/abd200" />
+  <img alt="CSS" height="30" width="40" src="https://cdn.simpleicons.org/css/abd200" />
   <img alt="Steam" height="30" width="40" src="https://cdn.simpleicons.org/steam/abd200" />
   <img alt="GitHub" height="30" width="40" src="https://cdn.simpleicons.org/github/abd200" />
 </div>
 
 <br>
 
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" alt="GIF animado" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnZlbWFrbjk4bWF5OW0wdXo4eDc3b25lbzlqYzg1N2VhMXJ6NTIyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ljtfkyTD3PIUZaKWRi/giphy.gif" width="300" alt="GIF animado" />
 
