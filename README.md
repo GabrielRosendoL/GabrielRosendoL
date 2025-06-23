@@ -26,8 +26,6 @@
   <img src="https://github-stats-gabriel.vercel.app/api?username=GabrielRosendoL&count_private=true&show_icons=false&hide_rank=true&include_all_commits=true&theme=merko" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="./metrics.plugin.habits.svg" alt="Coding Habits" width="420" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="./metrics.plugin.achievements.svg" alt="Achievements" width="420" />
 </div>
 
 
