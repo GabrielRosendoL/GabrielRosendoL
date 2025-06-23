@@ -3,7 +3,7 @@
 * C# Developer 💻
 * Classroom Code Preceptor for CESMAC University Center ✍️
 * Unity 2D Game Dev 🎮
-* Pixel Artist 👾
+* Pixel Artist 🖱️
 * Graduated in IS 🎓
 
  ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Flying Saucer.png" width="35" height="35" alt="Flying Saucer" /> | Commits
