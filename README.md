@@ -1,15 +1,13 @@
-## Hi! I'm Gabriel! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="35" height="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Lightning%20and%20Rain.png" alt="Cloud with Lightning and Rain" width="35" height="35" />
+<h1> Hi! I'm Gabriel! <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Victory Hand Light Skin Tone.png" width="35" height="35" alt="Victory Hand Light Skin Tone" /> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Cloud with Lightning and Rain.png" width="35" height="35" alt="Cloud with Lightning and Rain" /> </h1>
 
-<img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Penguin.png" width="45" height="45" alt="Penguin" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Crossed-Out%20Eyes.png" alt="Face with Crossed-Out Eyes" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Shrimp.png" alt="Shrimp" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Monkey%20Face.png" alt="Monkey Face" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="45" height="45" />
+* C# Developer 💻
+* Classroom Code Preceptor for CESMAC University Center ✍️
+* Unity 2D Game Dev 🎮
+* Pixel Artist 👾
+* Graduated in IS 🎓
 
+ ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Flying Saucer.png" width="35" height="35" alt="Flying Saucer" /> | Commits
+ 
 <div style="display: flex">  
       <img src="https://streak-stats.demolab.com/?user=GabrielRosendoL&theme=merko" alt="GitHub Streak" />
   <span>
@@ -17,7 +15,8 @@
   </span>
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnZlbWFrbjk4bWF5OW0wdXo4eDc3b25lbzlqYzg1N2VhMXJ6NTIyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ljtfkyTD3PIUZaKWRi/giphy.gif" width="250" alt="GIF animado" />
 </div>
-<hr>
+
+ ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Alien.png" width="35" height="35" alt="Alien" /> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Monkey Face.png" width="35" height="35" alt="Monkey Face" /> | Stats and Metrics 
 <div align="center">
   <table>
     <tr>
@@ -32,8 +31,9 @@
 </div>
 
 
-<h3>Technologies</h3>
-<hr>
+<div style="display: inline">
+      <h2><img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Ghost.png" width="35" height="35" alt="Ghost" /> | Technologies</h2>
+</div>
 <table>
   <tr>
     <td align="center">
@@ -71,7 +71,10 @@
   </tr>
 </table>
 
-
+<div style="display: inline">
+      <h2> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Telephone Receiver.png" width="35" height="35" alt="Telephone Receiver" />  | Contact</h2>
+</div>
+<h3><img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/E-Mail.png" width="20" height="20" alt="E-Mail" /> | Email: gab.rosendo.code@gmail.com</h3>
 <br>
 
 
