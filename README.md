@@ -1,11 +1,5 @@
 <h1> Hi! I'm Gabriel! <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Victory Hand Light Skin Tone.png" width="35" height="35" alt="Victory Hand Light Skin Tone" /> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Cloud with Lightning and Rain.png" width="35" height="35" alt="Cloud with Lightning and Rain" /> </h1>
 
-* C# Developer 💻
-* Classroom Code Preceptor for CESMAC University Center ✍️
-* Unity 2D Game Dev 🎮
-* Pixel Artist 🖱️
-* Graduated in IS 🎓
-
  ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Flying Saucer.png" width="35" height="35" alt="Flying Saucer" /> | Commits
  
 <div style="display: flex">  
