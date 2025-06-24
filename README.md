@@ -3,7 +3,7 @@
  ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Flying Saucer.png" width="35" height="35" alt="Flying Saucer" /> | Commits
  
 <div style="display: flex">  
-      <img src="https://streak-stats.demolab.com/?user=GabrielRosendoL&theme=merko" alt="GitHub Streak" />
+ <img src="https://github-stats-gabriel.vercel.app/api?username=GabrielRosendoL&count_private=true&show_icons=false&hide_rank=true&include_all_commits=true&theme=merko" />
   <span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   </span>
@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-stats-gabriel.vercel.app/api?username=GabrielRosendoL&count_private=true&show_icons=false&hide_rank=true&include_all_commits=true&theme=merko" />
+              <img src="https://streak-stats.demolab.com/?user=GabrielRosendoL&theme=merko" alt="GitHub Streak" />
       </td>
       <td>
         <img src="./metrics.plugin.habits.svg" alt="Coding Habits" width="420" />
