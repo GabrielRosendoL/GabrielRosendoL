@@ -1,4 +1,4 @@
-<h1> Hi! I'm Gabriel! <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Victory Hand Light Skin Tone.png" width="35" height="35" alt="Victory Hand Light Skin Tone" /> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Cloud with Lightning and Rain.png" width="35" height="35" alt="Cloud with Lightning and Rain" /> </h1>
+<h1> Gabriel's GitHub! <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Victory Hand Light Skin Tone.png" width="35" height="35" alt="Victory Hand Light Skin Tone" /> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Cloud with Lightning and Rain.png" width="35" height="35" alt="Cloud with Lightning and Rain" /> </h1>
 
  ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Flying Saucer.png" width="35" height="35" alt="Flying Saucer" /> | Stats and Metrics 
  
