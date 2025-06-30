@@ -1,4 +1,4 @@
-name: Metrics
+ame: MetricsMore actions
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Passo 1: Imagem de Hábitos com tema merko (inalterado)
+      # Passo 1 (ANTERIORMENTE achievements): Agora é a imagem de Hábitos com tema merko
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -21,26 +21,12 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           theme: merko
-          
-      # Passo 2: Calendário de Commits com o novo tema "Synthwave"
+
+      # Passo 2 (ANTERIORMENTE habits): Agora é o Calendário de Commits com tema merko
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           filename: metrics.plugin.isocalendar.svg
           plugin_isocalendar: yes
-          # A opção 'theme' foi removida, pois o extras_css irá controlar todas as cores.
-          # O código CSS abaixo aplica o tema "Synthwave" ao calendário.
-          extras_css: |
-            #isocalendar-title {
-              fill: #ff79c6!important;
-            }
-            text.stats {
-              fill: #f8f8f2;
-              font-family: 'Fira Code', monospace;
-            }
-            g#isocalendar-graph.level-0 { fill: #282a36; }
-            g#isocalendar-graph.level-1 { fill: #bd93f9; }
-            g#isocalendar-graph.level-2 { fill: #ff79c6; }
-            g#isocalendar-graph.level-3 { fill: #ff5555; }
-            g#isocalendar-graph.level-4 { fill: #50fa7b; }
+          theme: merko
