@@ -1,6 +1,6 @@
 <h1> Hi! I'm Gabriel! <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Victory Hand Light Skin Tone.png" width="35" height="35" alt="Victory Hand Light Skin Tone" /> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Cloud with Lightning and Rain.png" width="35" height="35" alt="Cloud with Lightning and Rain" /> </h1>
 
- ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Flying Saucer.png" width="35" height="35" alt="Flying Saucer" /> | Commits
+ ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Flying Saucer.png" width="35" height="35" alt="Flying Saucer" /> | Stats and Metrics 
  
 <div style="display: flex">  
  <img src="https://github-stats-gabriel.vercel.app/api?username=GabrielRosendoL&count_private=true&show_icons=false&hide_rank=true&include_all_commits=true&theme=merko" />
@@ -10,12 +10,12 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnZlbWFrbjk4bWF5OW0wdXo4eDc3b25lbzlqYzg1N2VhMXJ6NTIyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ljtfkyTD3PIUZaKWRi/giphy.gif" width="250" alt="GIF animado" />
 </div>
 
- ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Alien.png" width="35" height="35" alt="Alien" /> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Monkey Face.png" width="35" height="35" alt="Monkey Face" /> | Stats and Metrics 
+ ## <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Alien.png" width="35" height="35" alt="Alien" /> <img src="https://raw.githubusercontent.com/GabrielRosendoL/GabrielRosendoL/main/emojis/Monkey Face.png" width="35" height="35" alt="Monkey Face" /> | Commits
 <div align="center">
   <table>
     <tr>
       <td>
-              <img src="https://streak-stats.demolab.com/?user=GabrielRosendoL&theme=merko" alt="GitHub Streak" />
+<!--               <img src="https://streak-stats.demolab.com/?user=GabrielRosendoL&theme=merko" alt="GitHub Streak" /> -->
        <img src="metrics.plugin.isocalendar.svg" alt="Calendário de Commits" />
       </td>
       <td>
