@@ -4,7 +4,6 @@
  
 <div style="display: flex">  
  <img src="https://github-stats-gabriel.vercel.app/api?username=GabrielRosendoL&count_private=true&show_icons=false&hide_rank=true&include_all_commits=true&theme=merko" />
- <img src="metrics.plugin.codestats.svg" alt="Code::Stats Metrics" />
   <span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   </span>
