@@ -56,10 +56,6 @@
       <sub>CSS</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/steam/abd200" width="40" height="30" alt="Steam"/><br/>
-      <sub>Steam</sub>
-    </td>
-    <td align="center">
       <img src="https://cdn.simpleicons.org/github/abd200" width="40" height="30" alt="GitHub"/><br/>
       <sub>GitHub</sub>
     </td>
